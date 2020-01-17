@@ -1,3 +1,3 @@
-# movie-rental
+# Library Catalog
 
-Movie rental app using Python django.
+Catalogs of books and movies in a library.
